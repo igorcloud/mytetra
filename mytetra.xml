@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="" id="1300000000aaaaaaaaa1" name="Телефоны">
+   <node crypt="" id="1551898537bhutdmm5ss" name="Samsung">
+    <recordtable>
+     <record id="1551987974ta7om4zkc2" name="Samsung Galaxy S8 Plus 64Gb SIlver&#10;" author="" url="" tags="" ctime="20190307214614" dir="15519879742j4cjm01jh" file="text.html"/>
+    </recordtable>
+    <node crypt="" id="1551900564lshoj314pg" name="S серия">
+     <recordtable>
+      <record id="15519007670fgaxdoyrl" name="Samsung S8 Plus " author="" url="" tags="" ctime="20190306213247" dir="1551900767la5b1hlfe8" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1551900583zpabc9dh7l" name="A серия"/>
+    <node crypt="" id="15519860174u1diamjj1" name="N серия">
+     <recordtable>
+      <record id="1551986417vmtajbjqa4" name="Samsung Galaxy Note 4" author="" url="" tags="" ctime="20190307212017" dir="15519864178eq9r8jd7i" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+   <node crypt="" id="1551898546rfjt3ll23v" name="Lg">
+    <recordtable>
+     <record id="1551995429gbpkm2idx4" name="LG G6 4/32GB" author="" url="" tags="" ctime="20190307235029" dir="15519954292mry2ksnk3" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="15518985592gbftqq9p5" name="Motorola">
+    <recordtable>
+     <record id="1551987443nt2iqjj6xf" name="Motorola Moto E4 XT1765 Snapdragon 425 2/16Gb" author="" url="" tags="" ctime="20190307213723" dir="1551987443iq6ordue73" file="text.html"/>
+     <record id="1551987645a26y5rtm7i" name="Motorola Moto G4 XT 1625" author="" url="" tags="" ctime="20190307214045" dir="15519876458n2sgpac59" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1551898591lx1mo6a1xg" name="iPhone">
+    <recordtable>
+     <record id="15519872490ibk8vt93s" name="iPhone 5s" author="" url="" tags="" ctime="20190307213409" dir="1551987249gu68z45fqo" file="text.html"/>
+     <record id="1551987339rpnbad5d9h" name="iPhone 5c" author="" url="" tags="" ctime="20190307213539" dir="1551987339amv26jdzsh" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1551898581mgue120nsq" name="Google pixel">
+    <recordtable>
+     <record id="15519869711nb5ixgl34" name="Google Pixel XL" author="" url="" tags="" ctime="20190307212931" dir="1551986971dkejv5qbyf" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+  <node crypt="" id="15518982334562en47nr" name="Планшеты"/>
+ </content>
+</root>

@@ -7,6 +7,7 @@
    <node crypt="" id="1551898537bhutdmm5ss" name="Samsung">
     <recordtable>
      <record id="1551987974ta7om4zkc2" name="Samsung Galaxy S8 Plus 64Gb SIlver&#10;" author="" url="" tags="" ctime="20190307214614" dir="15519879742j4cjm01jh" file="text.html"/>
+     <record id="1555595378icb2bre25e" name="Samsung j1 2016" author="" url="" tags="" ctime="20190418164938" dir="1555595378zst5lcnx8q" file="text.html"/>
     </recordtable>
     <node crypt="" id="1551900564lshoj314pg" name="S серия">
      <recordtable>
@@ -35,6 +36,7 @@
     <recordtable>
      <record id="15519872490ibk8vt93s" name="iPhone 5s" author="" url="" tags="" ctime="20190307213409" dir="1551987249gu68z45fqo" file="text.html"/>
      <record id="1551987339rpnbad5d9h" name="iPhone 5c" author="" url="" tags="" ctime="20190307213539" dir="1551987339amv26jdzsh" file="text.html"/>
+     <record id="155558428568xbqhswv2" name="iPhone 7" author="" url="" tags="" ctime="20190418134445" dir="1555584285hvppre0qw6" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="1551898581mgue120nsq" name="Google pixel">

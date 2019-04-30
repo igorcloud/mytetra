@@ -3,45 +3,45 @@
 <root>
  <format version="1" subversion="2"/>
  <content>
-  <node crypt="" id="1300000000aaaaaaaaa1" name="Телефоны">
-   <node crypt="" id="1551898537bhutdmm5ss" name="Samsung">
+  <node crypt="1" icon="" id="1300000000aaaaaaaaa1" name="UkM1U0lNUAPYKF21VTFoo0G0HXR5ERaSpE/vBk1gsx9a+r3wbYZQ/CY8KFgqeo1Hl9MSwm5Yy7Q=">
+   <node crypt="1" icon="" id="1551898537bhutdmm5ss" name="UkM1U0lNUANWx8MTqS81gW+ZQW8d3ODIChFCqojUKNM3IXq8ejOy6963MLYqKOm8">
     <recordtable>
-     <record id="1551987974ta7om4zkc2" name="Samsung Galaxy S8 Plus 64Gb SIlver&#10;" author="" url="" tags="" ctime="20190307214614" dir="15519879742j4cjm01jh" file="text.html"/>
-     <record id="1555595378icb2bre25e" name="Samsung j1 2016" author="" url="" tags="" ctime="20190418164938" dir="1555595378zst5lcnx8q" file="text.html"/>
+     <record id="1551987974ta7om4zkc2" name="UkM1U0lNUAPIhBnIDFLISUY/8bFalxd5FzJ/45qRqUhnquas90FFZgXcNWNoHIusnFeoY+0H1Zk9hjOhe0aYeZuKcjSDlreRdKJOeeogm8I=" author="" url="" tags="" ctime="20190307214614" dir="15519879742j4cjm01jh" file="text.html" crypt="1"/>
+     <record id="1555595378icb2bre25e" name="UkM1U0lNUAOA54O+IEiBc5WHY9jVub+s1PvPzM+IaSV23oHJC/b2pJCHMmZ0gDdpG6GHkC6v5wA=" author="" url="" tags="" ctime="20190418164938" dir="1555595378zst5lcnx8q" file="text.html" crypt="1"/>
     </recordtable>
-    <node crypt="" id="1551900564lshoj314pg" name="S серия">
+    <node crypt="1" icon="" id="1551900564lshoj314pg" name="UkM1U0lNUAM8wgqUtZEUnMSTz9N2mmaE1+QcTxUErshiSQKaI5iYYNBlA595gbHjAzqZYdEtgPg=">
      <recordtable>
-      <record id="15519007670fgaxdoyrl" name="Samsung S8 Plus " author="" url="" tags="" ctime="20190306213247" dir="1551900767la5b1hlfe8" file="text.html"/>
+      <record id="15519007670fgaxdoyrl" name="UkM1U0lNUAMXSBYHAdlV96eQo7Jtn3mvnOgAwF30hCFdHTd/GH1pys9TToaG4svPGaG23CYn0zk=" author="" url="" tags="" ctime="20190306213247" dir="1551900767la5b1hlfe8" file="text.html" crypt="1"/>
      </recordtable>
     </node>
-    <node crypt="" id="1551900583zpabc9dh7l" name="A серия"/>
-    <node crypt="" id="15519860174u1diamjj1" name="N серия">
+    <node crypt="1" icon="" id="1551900583zpabc9dh7l" name="UkM1U0lNUANnKQp3AdGPGPrLO9FYMRGvC/xjuJfTRn2pUphrq98HKelSqb/2Rww15GawHiDG5JI="/>
+    <node crypt="1" icon="" id="15519860174u1diamjj1" name="UkM1U0lNUAO1SIoccZSUcykODxFyejBA6T08RoeYRtGP43cTw/UBdGiwK2Ln+RYlyQYcgYTnP5Y=">
      <recordtable>
-      <record id="1551986417vmtajbjqa4" name="Samsung Galaxy Note 4" author="" url="" tags="" ctime="20190307212017" dir="15519864178eq9r8jd7i" file="text.html"/>
+      <record id="1551986417vmtajbjqa4" name="UkM1U0lNUAOoasjY30iZCSr8fKCl4SWZS4GmUOWyaG40cJm+ugdrupHt1mfqpX9jpc0eBULZ17ETrwWnZ1V53g==" author="" url="" tags="" ctime="20190307212017" dir="15519864178eq9r8jd7i" file="text.html" crypt="1"/>
      </recordtable>
     </node>
    </node>
-   <node crypt="" id="1551898546rfjt3ll23v" name="Lg">
+   <node crypt="1" icon="" id="1551898546rfjt3ll23v" name="UkM1U0lNUAN418z6fzbDV02xk0hBz2pdH5x6fl4n9z1iaShI4yBY/LMG+aq0+fFl">
     <recordtable>
-     <record id="1551995429gbpkm2idx4" name="LG G6 4/32GB" author="" url="" tags="" ctime="20190307235029" dir="15519954292mry2ksnk3" file="text.html"/>
+     <record id="1551995429gbpkm2idx4" name="UkM1U0lNUANV7k1xnJ0MgT5/imlw+7j/ytUbW73hmvEQrgq+vSmpOru7axO7To0YBAvUofW36eI=" author="" url="" tags="" ctime="20190307235029" dir="15519954292mry2ksnk3" file="text.html" crypt="1"/>
     </recordtable>
    </node>
-   <node crypt="" id="15518985592gbftqq9p5" name="Motorola">
+   <node crypt="1" icon="" id="15518985592gbftqq9p5" name="UkM1U0lNUAPUWKYqRvOb4+ucWqPLxl8h02snFD/7Bfec8pbZ1XM8tmjDQ3VB0CYp">
     <recordtable>
-     <record id="1551987443nt2iqjj6xf" name="Motorola Moto E4 XT1765 Snapdragon 425 2/16Gb" author="" url="" tags="" ctime="20190307213723" dir="1551987443iq6ordue73" file="text.html"/>
-     <record id="1551987645a26y5rtm7i" name="Motorola Moto G4 XT 1625" author="" url="" tags="" ctime="20190307214045" dir="15519876458n2sgpac59" file="text.html"/>
+     <record id="1551987443nt2iqjj6xf" name="UkM1U0lNUAMtEMGVepPVHAQ87E9AZQHvX+JRR8TylDAqG74Zznd2QmrIIFKHqU7FZviq894vDgc3aI/rhSAiKbFcgO3hENaYmqkwdrL27yN4x5+n2124yQ==" author="" url="" tags="" ctime="20190307213723" dir="1551987443iq6ordue73" file="text.html" crypt="1"/>
+     <record id="1551987645a26y5rtm7i" name="UkM1U0lNUANLJ8ihW8e4JPyDxz/cnO+sr5ye3EW9BlNLyZuOY7OnTap6WTy9eedGhVm547I52iFQFBlMiGTE0w==" author="" url="" tags="" ctime="20190307214045" dir="15519876458n2sgpac59" file="text.html" crypt="1"/>
     </recordtable>
    </node>
-   <node crypt="" id="1551898591lx1mo6a1xg" name="iPhone">
+   <node crypt="1" icon="" id="1551898591lx1mo6a1xg" name="UkM1U0lNUAMNPaMTjMXu16sSscOGWwRB5KGjb4UlcMPkc0GkzgFz2ZWxF10VEaT8">
     <recordtable>
-     <record id="15519872490ibk8vt93s" name="iPhone 5s" author="" url="" tags="" ctime="20190307213409" dir="1551987249gu68z45fqo" file="text.html"/>
-     <record id="1551987339rpnbad5d9h" name="iPhone 5c" author="" url="" tags="" ctime="20190307213539" dir="1551987339amv26jdzsh" file="text.html"/>
-     <record id="155558428568xbqhswv2" name="iPhone 7" author="" url="" tags="" ctime="20190418134445" dir="1555584285hvppre0qw6" file="text.html"/>
+     <record id="15519872490ibk8vt93s" name="UkM1U0lNUAPthJ7SCKfEyeE6kWt+Blj2JgaH+yFLBJRq1JOgxrDoNTZNTGcrkgeJ3jPinsozlXY=" author="" url="" tags="" ctime="20190307213409" dir="1551987249gu68z45fqo" file="text.html" crypt="1"/>
+     <record id="1551987339rpnbad5d9h" name="UkM1U0lNUAN9gQoxfiDuI/EQD6+fTTREUgvkl/Tjcm98SfimY15uq9Fs6502QHZhLSovvklDOvU=" author="" url="" tags="" ctime="20190307213539" dir="1551987339amv26jdzsh" file="text.html" crypt="1"/>
+     <record id="155558428568xbqhswv2" name="UkM1U0lNUAOgvI8+5tDmQuRLMAVA8OKWdIqlVgw1bhxlju87bTfTlMkLiA7qNpAd" author="" url="" tags="" ctime="20190418134445" dir="1555584285hvppre0qw6" file="text.html" crypt="1"/>
     </recordtable>
    </node>
-   <node crypt="" id="1551898581mgue120nsq" name="Google pixel">
+   <node crypt="1" icon="" id="1551898581mgue120nsq" name="UkM1U0lNUAOqkFLcV2Gr94cb8cC+Po+EqVHg53aYGblX3xcbvT4n265rWpt08koUWi/wOyBRiX0=">
     <recordtable>
-     <record id="15519869711nb5ixgl34" name="Google Pixel XL" author="" url="" tags="" ctime="20190307212931" dir="1551986971dkejv5qbyf" file="text.html"/>
+     <record id="15519869711nb5ixgl34" name="UkM1U0lNUAOFbgjNepF2ufPNlEepfderGU8CS6F672E1dOtAS7rNwc3f5/UeR14rYWNmNMwRlNE=" author="" url="" tags="" ctime="20190307212931" dir="1551986971dkejv5qbyf" file="text.html" crypt="1"/>
     </recordtable>
    </node>
   </node>
